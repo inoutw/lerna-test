@@ -1,4 +1,4 @@
-const { API } = require('prpr-lerna-core');
+const { API } = require('pg-lerna-core');
 const axios = require('axios');
 
 const getPopularImg = () => axios.get(API)
