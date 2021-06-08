@@ -1,6 +1,6 @@
 {
   "name": "pg-lerna-app",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "prpr-lerna-core": "^1.1.0-alpha.0"
+    "prpr-lerna-core": "^1.1.0"
   },
   "gitHead": "52e525f12ce69a54d4e277a87a0cc1398392f077"
 }
